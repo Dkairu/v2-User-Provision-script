@@ -2,7 +2,6 @@
 
 This script helps you to add your v2 users to NR from a csv file. It will read a csv file similar to the one attached `users.csv`. 
 
-Please note that using this script to manage your v2 users in New Relic will disable you from managing them in the New Relic UI. 
 ## How to use:
 ###### This code uses Python 3.
 
